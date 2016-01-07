@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.5" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <package id="1" language="java" name="binaryTree" project="StruttureDati" file="/StruttureDati/src/binaryTree" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1171" y="132"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="tree" project="StruttureDati" file="/StruttureDati/src/tree" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1150" y="227"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="entry" project="StruttureDati" file="/StruttureDati/src/entry" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="456" y="322"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="iterator" project="StruttureDati" file="/StruttureDati/src/iterator" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="702" y="322"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="adaptablePriorityQueue" project="StruttureDati" 
+    file="/StruttureDati/src/adaptablePriorityQueue" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="192" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="6" language="java" name="graph" project="StruttureDati" file="/StruttureDati/src/graph" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="273" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="7" language="java" name="nodeList" project="StruttureDati" file="/StruttureDati/src/nodeList" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1131" y="322"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="8" language="java" name="position" project="StruttureDati" file="/StruttureDati/src/position" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="683" y="512"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="9" language="java" name="comparator" project="StruttureDati" file="/StruttureDati/src/comparator" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="700" y="227"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="10" language="java" name="stack" project="StruttureDati" file="/StruttureDati/src/stack" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1335" y="322"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="11" language="java" name="partition" project="StruttureDati" file="/StruttureDati/src/partition" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="595" y="132"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="sequence" project="StruttureDati" file="/StruttureDati/src/sequence" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1537" y="227"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="arrayList" project="StruttureDati" file="/StruttureDati/src/arrayList" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1602" y="322"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="14" language="java" name="_ex" project="StruttureDati" file="/StruttureDati/src/_ex" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="597" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="15" language="java" name="_utility" project="StruttureDati" file="/StruttureDati/src/_utility" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="435" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="16" language="java" name="node" project="StruttureDati" file="/StruttureDati/src/node" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1131" y="417"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="17" language="java" name="map" project="StruttureDati" file="/StruttureDati/src/map" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="496" y="227"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="18" language="java" name="queue" project="StruttureDati" file="/StruttureDati/src/queue" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1375" y="227"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="19" language="java" name="binarySearchTree" project="StruttureDati" 
+    file="/StruttureDati/src/binarySearchTree" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="150" x="759" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="20" language="java" name="deque" project="StruttureDati" file="/StruttureDati/src/deque" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="927" y="322"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="21" language="java" name="exception" project="StruttureDati" file="/StruttureDati/src/exception" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1335" y="512"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="22" language="java" name="priorityQueue" project="StruttureDati" file="/StruttureDati/src/priorityQueue" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="967" y="132"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="23" language="java" name="dictionary" project="StruttureDati" file="/StruttureDati/src/dictionary" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="433" y="132"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="24" language="java" name="set" project="StruttureDati" file="/StruttureDati/src/set" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="904" y="227"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="25" language="java" name="heap" project="StruttureDati" file="/StruttureDati/src/heap" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1171" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <dependency id="26">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="27">    
+    <bendpoint x="1689" y="227"/>    
+    <bendpoint x="1550" y="322"/>    
+    <bendpoint x="1550" y="417"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="29">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="31">    
+    <bendpoint x="1283" y="417"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="32">    
+    <bendpoint x="1077" y="227"/>    
+    <bendpoint x="1079" y="322"/>    
+    <bendpoint x="1079" y="417"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="35">    
+    <bendpoint x="423" y="227"/>    
+    <bendpoint x="423" y="322"/>    
+    <bendpoint x="423" y="417"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="36">    
+    <bendpoint x="1100" y="417"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="37">    
+    <bendpoint x="768" y="132"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="39">    
+    <bendpoint x="1119" y="132"/>    
+    <bendpoint x="1119" y="227"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="41">    
+    <bendpoint x="1344" y="227"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="44">    
+    <bendpoint x="1283" y="322"/>    
+    <bendpoint x="1304" y="417"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="46">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="47">    
+    <bendpoint x="852" y="227"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="49">    
+    <bendpoint x="1304" y="322"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="50">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="1100" y="322"/>    
+    <bendpoint x="1058" y="417"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="53">    
+    <bendpoint x="1571" y="322"/>    
+    <bendpoint x="1571" y="417"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="54">    
+    <bendpoint x="444" y="227"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="55">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="56">    
+    <bendpoint x="692" y="417"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="57">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="58">    
+    <bendpoint x="381" y="227"/>    
+    <bendpoint x="381" y="322"/>    
+    <bendpoint x="381" y="417"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="59">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="61">    
+    <bendpoint x="1344" y="417"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="62">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="63">    
+    <bendpoint x="608" y="322"/>    
+    <bendpoint x="608" y="417"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="65">    
+    <bendpoint x="629" y="322"/>    
+    <bendpoint x="671" y="417"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="67">    
+    <bendpoint x="1098" y="227"/>    
+    <bendpoint x="896" y="322"/>    
+    <bendpoint x="896" y="417"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="648" y="227"/>    
+    <bendpoint x="671" y="322"/>    
+    <bendpoint x="713" y="417"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="873" y="227"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="73">    
+    <bendpoint x="1712" y="132"/>    
+    <bendpoint x="1754" y="227"/>    
+    <bendpoint x="1754" y="322"/>    
+    <bendpoint x="1754" y="417"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="74">    
+    <bendpoint x="360" y="132"/>    
+    <bendpoint x="360" y="227"/>    
+    <bendpoint x="360" y="322"/>    
+    <bendpoint x="360" y="417"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="75">    
+    <bendpoint x="1302" y="227"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="76">    
+    <bendpoint x="854" y="322"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="77">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="78">    
+    <bendpoint x="1529" y="322"/>    
+    <bendpoint x="1487" y="417"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="79">    
+    <bendpoint x="1487" y="322"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="80">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="81">    
+    <bendpoint x="789" y="132"/>    
+    <bendpoint x="669" y="227"/>    
+    <bendpoint x="650" y="322"/>    
+    <bendpoint x="650" y="417"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="82">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="84">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="85">    
+    <bendpoint x="1508" y="322"/>    
+    <bendpoint x="1508" y="417"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="86">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="87">    
+    <bendpoint x="402" y="132"/>    
+    <bendpoint x="402" y="227"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="88">    
+    <bendpoint x="1592" y="417"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="89">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="90">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="92">    
+    <bendpoint x="1056" y="227"/>    
+    <bendpoint x="875" y="322"/>    
+    <bendpoint x="875" y="417"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="93">    
+    <bendpoint x="1037" y="417"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="94">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,18 @@
+Metodi o Classi mancanti al progetto d'esame
+
+
+BINARY TREE :
+§ void attachLeaves(PositionList<E>L): trasforma le foglie dell’albero in nodi 
+interni aventi come figli due foglie. Gli elementi delle nuove foglie devono 
+essere prelevati dalla lista L (in base all’ordine in cui sono disposti in L). 
+Si assuma che L contenga un numero di elementi pari a due volte il numero 
+di foglie iniziale dell’albero. 
+ 
+ 
+ ADAPTABLE PRIORITY QUEUE: 
+• SortedListAdaptablePriorityQueue che implementa AdaptablePriorityQueue estendendo la 
+classe SortedListPriorityQueue.
+
+
+HeapPriorityQueue()
+costruttore vuoto
